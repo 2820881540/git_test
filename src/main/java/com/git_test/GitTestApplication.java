@@ -14,6 +14,7 @@ public class GitTestApplication {
         System.out.println("master test conflict");
         System.out.println("hot-fix test conflict");
         System.out.println("git push test");
+        System.out.println("git update in remote");
         SpringApplication.run(GitTestApplication.class, args);
     }
 
